@@ -1,0 +1,66 @@
+body {
+    font-family: 'Fjalla One', sans-serif;
+    width: auto;
+    background-color: ;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    
+  }
+
+  .heading {
+    text-align:center;
+    width: auto;
+    background-color:   rgb(49, 49, 49);
+    margin-bottom: 5px;
+    border:1px solid black;
+    font-size: 40px;
+    color: white;
+    outline: 1px black;
+    text-shadow: black;
+}
+
+#citysearch {
+    width: auto;
+    font-weight: bolder;
+}
+
+.searchinput {
+    background-color: rgb(192, 192, 192);
+    height: 300px;
+    width: 245px;
+    float: left;
+    border-radius: 1px;
+    padding: 2px;
+    border: 1px solid black;
+
+}
+
+#weatherdisplay {
+    background-color:rgb(231, 245, 253);
+    border: 1px solid black;
+    height: 300px;
+    width: 340px;
+    float: right;
+    padding: 2px;
+    border-radius: 1px;
+    font-size: 20px;
+}
+
+#forecastdisplay {
+    color:black;
+    float: right;
+    width: 598px;
+    height: 200px ;
+    border: 1px solid black;
+    margin-top: 5px;
+    background-color: skyblue;
+}
+
+.uviBox {
+    background-color: brown;
+}
+
+
