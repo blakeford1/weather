@@ -61,8 +61,37 @@ body {
     padding: 3px;
 }
 
-#uviBox {
+.uviBox {
     background-color: brown;
 }
 
+.fiveDayContainer {
+    width: 20%;
+    display: inline-block;
+
+}
+
+.cityDisplay {
+    cursor: pointer;
+}
+
+.green {
+    color: green
+}
+
+.yellow {
+    color: yellow
+}
+
+.orange {
+    color: orange
+}
+
+.red {
+    color: red
+}
+
+.violet {
+    color: violet;
+}
 
