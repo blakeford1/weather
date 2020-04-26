@@ -52,14 +52,16 @@ body {
 #forecastdisplay {
     color:black;
     float: right;
-    width: 598px;
-    height: 200px ;
+    width: 591px;
+    height: auto;
     border: 1px solid black;
     margin-top: 5px;
+    margin-bottom: 10px;
     background-color: skyblue;
+    padding: 3px;
 }
 
-.uviBox {
+#uviBox {
     background-color: brown;
 }
 
